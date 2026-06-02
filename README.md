@@ -22,9 +22,10 @@ pip install -r requirements.txt
 3.checkpoints 
 ----
   
-links: [dit-int8](https://huggingface.co/smthem/LongCat-Video-Avatar-1.5-merge)  
-links: [text_encoders](https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/tree/main/split_files/text_encoders)  
-links: [vae/vocal_separator/whisper-large-v3/lora](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5/tree/main)
+huggingface links: [dit-int8](https://huggingface.co/smthem/LongCat-Video-Avatar-1.5-merge)  
+huggingface links: [text_encoders](https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/tree/main/split_files/text_encoders)  
+huggingface links: [vocal_separator/whisper-large-v3/lora](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5/tree/main)   
+huggingface links: [vae](https://huggingface.co/meituan-longcat/LongCat-Video ) 
 
 ```
 ├── ComfyUI/models/diffusion_models/
